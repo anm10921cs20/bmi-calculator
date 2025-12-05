@@ -68,7 +68,7 @@ const App = () => {
           <p className='box-text'>Diet Routine</p>
         </div>
         <div className='content'>
-          <h1>IBM CALCULATOR</h1>
+          <h1>BMI CALCULATOR</h1>
          {error &&  <p className='error'>{error}</p>}
           <div className='height'>
             <label htmlFor="height">Height (Cm)</label>
